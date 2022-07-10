@@ -1,0 +1,95 @@
+{
+  "Header": {
+    "title": "Heaven Scent Flower Farm",
+    "paragraph": "Serving our neighbors in the central Texas area with bouquets of specialty cut flowers direct from our farm to you. We look forward to sharing beauty with you and your loved ones."
+  },
+  "Services": [
+    {
+      "icon": "faClover",
+      "title": "Bouquets",
+      "text": "Handcrafted bouquets bursting with blooms, perfect for any occasion."
+    },
+    {
+      "icon": "faWheatAwn",
+      "title": "Flower Bar",
+      "text": "Create your own custom bouquet at our interactive flower bar experience."
+    },
+    {
+      "icon": "faGifts",
+      "title": "DIY Events",
+      "text": "Host memorable events with our locally grown flowers for a personal touch."
+    },
+    {
+      "icon": "faPeopleGroup",
+      "title": "Family & Community",
+      "text": "Connecting through flowers, fostering community with locally grown blooms."
+    }
+  ],
+  "About": {
+    "paragraph": "Located in picturesque Smithville, TX, our flower farm is nurtured by Audrey and Joe Moors, who are deeply committed to supporting our local community. Embracing regenerative agriculture, we sustainably cultivate our blooms, ensuring unparalleled freshness and fragrance. Specializing in customizable bouquets for weddings, events, and all celebrations across Smithville and the surrounding areas, we pride ourselves on personalized service and sustainable practices. Explore our commitment to crafting memorable moments with each petal.",
+    "Why": [
+      "Locally sourced blooms",
+      "Speacialty bouquets",
+      "Budget-flexible options",
+      "Exceptional quality"
+    ],
+    "Why2": [
+      "Personalized service",
+      "Sustainable practices",
+      "Event floral arrangements",
+      "Memorable beauty"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Sunflowers",
+      "largeImage": "https://lh3.googleusercontent.com/pw/AP1GczOYYg5gHUtg51RC6AsCCr1_dov3yrJYdSsQVSJHT_m6OZBNY6-dQB4t2PLfcuSxwnQ3iA6owfBKTEA4Q8HU8-MjWtGLAIZi2PzH4YmFV3ZfhpFORtPma7kdYdiBhdin8Cuax106ZB5zL_tNGNN44LDZ=w1540-h1154-s-no-gm?authuser=0",
+      "smallImage": "https://lh3.googleusercontent.com/pw/AP1GczOYYg5gHUtg51RC6AsCCr1_dov3yrJYdSsQVSJHT_m6OZBNY6-dQB4t2PLfcuSxwnQ3iA6owfBKTEA4Q8HU8-MjWtGLAIZi2PzH4YmFV3ZfhpFORtPma7kdYdiBhdin8Cuax106ZB5zL_tNGNN44LDZ=w1540-h1154-s-no-gm?authuser=0"
+    },
+    {
+      "title": "Ranunculus",
+      "largeImage": "https://lh3.googleusercontent.com/pw/AP1GczMbKSiqKqTHhTXek7DzJisE-qBiWRVo0DM79D8hGk0ZtlkEwGzffA-H0-03fiLh_yyknlrU_KWnLmbzgUMrC1JQ02uSsVcc1TasRXqgEv6rOXMUCW9F9lMQ9cVsKi-SJva1ESvU14MZoJ3hp-v6Tvtq=w1540-h1154-s-no-gm?authuser=0",
+      "smallImage": "https://lh3.googleusercontent.com/pw/AP1GczMbKSiqKqTHhTXek7DzJisE-qBiWRVo0DM79D8hGk0ZtlkEwGzffA-H0-03fiLh_yyknlrU_KWnLmbzgUMrC1JQ02uSsVcc1TasRXqgEv6rOXMUCW9F9lMQ9cVsKi-SJva1ESvU14MZoJ3hp-v6Tvtq=w1540-h1154-s-no-gm?authuser=0"
+    },
+    {
+      "title": "Statice",
+      "largeImage": "https://lh3.googleusercontent.com/pw/AP1GczOEoqOlHrsoIUHaDm_HzC15nh4R22Ez60BIPhoQs-3JGbU7tHVQQ6rDn9s5eKXqo5Wp-WMMsDjSXCXSWVufi42pVm907ysvWfoGg2B9toIHu7uU4F-_Irn2AzpX0mLtJcDDvY3Ye77IuNUGLsLfAP5L=w1540-h1154-s-no-gm?authuser=0",
+      "smallImage": "https://lh3.googleusercontent.com/pw/AP1GczOEoqOlHrsoIUHaDm_HzC15nh4R22Ez60BIPhoQs-3JGbU7tHVQQ6rDn9s5eKXqo5Wp-WMMsDjSXCXSWVufi42pVm907ysvWfoGg2B9toIHu7uU4F-_Irn2AzpX0mLtJcDDvY3Ye77IuNUGLsLfAP5L=w1540-h1154-s-no-gm?authuser=0"
+    },
+    {
+      "title": "Dara",
+      "largeImage": "https://lh3.googleusercontent.com/pw/AP1GczN02jvEenNrArIGu7vyVf_2H8C7skvlJf8ACelXnPwQ0M8xrhZZpjC19y_kkw5zSQRv2eER8cY7pCsdO9s_XDIptePQzYfwbdm89JWxZATjNIQpbxfgb7JcBVgljT9suZPHPwS6v4984qh0FRQF7jM=w1802-h1352-s-no-gm?authuser=0",
+      "smallImage": "https://lh3.googleusercontent.com/pw/AP1GczN02jvEenNrArIGu7vyVf_2H8C7skvlJf8ACelXnPwQ0M8xrhZZpjC19y_kkw5zSQRv2eER8cY7pCsdO9s_XDIptePQzYfwbdm89JWxZATjNIQpbxfgb7JcBVgljT9suZPHPwS6v4984qh0FRQF7jM=w1802-h1352-s-no-gm?authuser=0"
+    },
+    {
+      "title": "Sweet William",
+      "largeImage": "https://lh3.googleusercontent.com/pw/AP1GczNrvGUB8fhl_VH90kSVFvNNBCqzXsODE6ix3ZbezmhAYbyDruPQn8HSJvaQQS0gsKE8PDQhTKIisygpllUymN8949hXV33guo1YnMnErEq3WZSlLRpCyEc81oLsWLmTDKz3MCtntarRmewZpvDieKkP=w1540-h1156-s-no-gm?authuser=0",
+      "smallImage": "https://lh3.googleusercontent.com/pw/AP1GczNrvGUB8fhl_VH90kSVFvNNBCqzXsODE6ix3ZbezmhAYbyDruPQn8HSJvaQQS0gsKE8PDQhTKIisygpllUymN8949hXV33guo1YnMnErEq3WZSlLRpCyEc81oLsWLmTDKz3MCtntarRmewZpvDieKkP=w1540-h1156-s-no-gm?authuser=0"
+    },
+    {
+      "title": "Lisianthus",
+      "largeImage": "https://lh3.googleusercontent.com/pw/AP1GczNCSpkfTddK5ZQVXcpZTv1U0TqaWse147jYeAJETtp79peznv-8evTumAjwJtn9jTB6EWj4RJ2R8_67CdpFKTGVxhkDmKQ-u_8_vkIBokEjsqAgx74tP0n_9-GYE8Q1i-aRzlACrhEIVlYho8X_ljWz=w1540-h1156-s-no-gm?authuser=0",
+      "smallImage": "https://lh3.googleusercontent.com/pw/AP1GczNCSpkfTddK5ZQVXcpZTv1U0TqaWse147jYeAJETtp79peznv-8evTumAjwJtn9jTB6EWj4RJ2R8_67CdpFKTGVxhkDmKQ-u_8_vkIBokEjsqAgx74tP0n_9-GYE8Q1i-aRzlACrhEIVlYho8X_ljWz=w1540-h1156-s-no-gm?authuser=0"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    }
+  ],
+  "Contact": {
+    "address": "505 Zapalac Rd, Smithville, TX 78957 ",
+    "phone": "+1 512 577 2288",
+    "email": "heavenscentflowerfarm@gmail.com",
+    "facebook": "#",
+    "twitter": "#",
+    "youtube": "#"
+  }
+}

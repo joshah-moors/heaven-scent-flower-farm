@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.image-link {
+  display: flex;
+  align-items: center; /* Center items vertically */
+
+  /* Optional: Add padding or other styles as needed */
+  padding: 8px;
+}
+
+.image-link img {
+  height: 150%; /* Match the height of the text */
+  margin-right: 8px; /* Optional: Add some spacing between image and text */
+}
+
+.image-link span {
+  flex: 1; /* Allow text to take remaining space */
+  overflow: hidden; /* Ensure text does not overflow */
+  white-space: nowrap; /* Prevent text from wrapping */
+  text-overflow: ellipsis; /* Show ellipsis (...) for overflowed text */
+}
