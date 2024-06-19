@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/heaven-scent-flower-farm/static/css/main.f7220e16.css",
-    "main.js": "/heaven-scent-flower-farm/static/js/main.36e93eda.js",
-    "index.html": "/heaven-scent-flower-farm/index.html",
-    "main.f7220e16.css.map": "/heaven-scent-flower-farm/static/css/main.f7220e16.css.map",
-    "main.36e93eda.js.map": "/heaven-scent-flower-farm/static/js/main.36e93eda.js.map"
+    "main.css": "/static/css/main.f7220e16.css",
+    "main.js": "/static/js/main.36e93eda.js",
+    "index.html": "/index.html",
+    "main.f7220e16.css.map": "/static/css/main.f7220e16.css.map",
+    "main.36e93eda.js.map": "/static/js/main.36e93eda.js.map"
   },
   "entrypoints": [
     "static/css/main.f7220e16.css",
